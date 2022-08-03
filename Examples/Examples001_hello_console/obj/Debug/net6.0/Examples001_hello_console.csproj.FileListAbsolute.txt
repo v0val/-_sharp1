@@ -1,0 +1,15 @@
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\bin\Debug\net6.0\Examples001_hello_console.exe
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\bin\Debug\net6.0\Examples001_hello_console.deps.json
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\bin\Debug\net6.0\Examples001_hello_console.runtimeconfig.json
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\bin\Debug\net6.0\Examples001_hello_console.dll
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\bin\Debug\net6.0\Examples001_hello_console.pdb
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.csproj.AssemblyReference.cache
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.AssemblyInfoInputs.cache
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.AssemblyInfo.cs
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.csproj.CoreCompileInputs.cache
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.dll
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\refint\Examples001_hello_console.dll
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.pdb
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\Examples001_hello_console.genruntimeconfig.cache
+C:\Users\olen\Downloads\_КУРС_GB_Разработчик\5\C#\Examples\Examples001_hello_console\obj\Debug\net6.0\ref\Examples001_hello_console.dll
